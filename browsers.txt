@@ -17,7 +17,7 @@ more secure than its predecessor, Internet Explorer.
 Apple Safari: This is the default web browser for Apple's line of Mac computers and iOS devices. 
 It is known for its speed, energy efficiency, and seamless integration with other Apple products.
 
-----------------extension/addons-------------------------
+$EXTENSION
 Extensions and addons are additional software components that can be added to web browsers to enhance their functionality. 
 Here are some popular extensions and addons:
 
