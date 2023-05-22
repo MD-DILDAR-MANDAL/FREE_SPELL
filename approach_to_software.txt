@@ -1,0 +1,26 @@
+-------new software-------
+
+1.Visit the offical website or third party websites 
+2.read the details about the software or watch a youtube video.
+3.read or watch a youtube video on how to install the software 
+    with latest versions or the one which is compatible with your system
+
+NOTE": many websites are available which explains the working 
+    and installation process other than official website/youtube.
+
+----installing software from GITHUB----
+1.find the github repository by Google searching
+2.clone the repo into your system  
+    (cloning means downloading the files available in the repository at that 
+    time into your system or local machine)
+        (dont know how---->google search how to clone and read one of the website,
+        then also if you cant do then watch youtube video)
+3.The installation process will be available in Github read it by just 
+    scrolling down.
+    You can also read it from readme.md file (file name maybe any other 
+    common names) in the downloaded repository.
+
+NOTE:carefully read it as it will have info about all types of 
+    systems just find your machine name;
+
+

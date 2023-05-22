@@ -1,0 +1,45 @@
+Just go step by step to download files from a website you will 
+find the download button on the website.Then just click.
+
+
+
+---------------------using downloader----------------------------
+Benefit:    
+    Faster download speeds: Downloader software can accelerate download speeds 
+    by using multiple connections to download a file in parallel, which can 
+    save time and reduce the amount of time you need to wait for a download to complete.
+
+    Resume interrupted downloads: Downloaders can resume interrupted downloads, which means 
+    that you can pick up where you left off if a download is interrupted due to a network or connectivity issue.
+
+    Download scheduling: Downloaders can allow you to schedule downloads for a specific time, 
+    which can be useful if you want to download files during off-peak hours or when you're not using your device.
+
+    Multiple file downloads: Some downloaders can download multiple files at once, 
+    which can save time if you need to download several files.
+
+    Integration with web browsers: Many downloaders can integrate with web browsers, 
+    allowing you to capture download links automatically and start downloading files with just one click.
+
+Downloader software is a type of software used to download files 
+from the internet onto your computer or other devices. 
+It allows you to download files such as videos, music, documents, images, and more.
+
+
+examples:
+
+    Internet Download Manager (IDM): IDM is a popular downloader software for Windows 
+    that can accelerate download speeds, resume interrupted downloads, and schedule downloads.
+
+    4K Video Downloader: This downloader software is designed specifically for downloading videos 
+    from YouTube and other video-sharing websites. It can download entire playlists, subtitles, and 3D videos.
+
+    Free Download Manager: Free Download Manager is a powerful, open-source downloader software that 
+    supports HTTP, FTP, BitTorrent, and other protocols. It can also schedule and resume downloads, 
+    and convert downloaded media files to different formats.
+
+    Xtreme Download Manager (XDM) is a free and open-source downloader software for Windows, macOS, and Linux. 
+    It claims to increase download speeds by up to 500%, and supports HTTP, HTTPS, and FTP protocols.
+
+    BitTorrent: BitTorrent is a peer-to-peer file sharing protocol that allows users to download large 
+    files quickly and efficiently. It is often used for downloading movies, TV shows, music, and other types of media.
