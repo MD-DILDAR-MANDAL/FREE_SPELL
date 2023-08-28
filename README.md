@@ -18,6 +18,7 @@ This can be used as a handy book of techniques which we can all use in our daily
 <br>
 
 ### 🎁 The art of using pirated software website and digital materials (ebooks, music, videos, movies..etc).
+<hr>
 
 # Contribute
 
