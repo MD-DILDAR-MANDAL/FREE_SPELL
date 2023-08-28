@@ -42,4 +42,4 @@ If you have any questions or need further assistance, feel free to [contact us](
 We would like to express our gratitude to the following contributors for their valuable contributions to this project:
 
 - [MD DILDAR MANDAL](https://github.com/MD-DILDAR-MANDAL)
-- [Theophilas Chapar](https://github.com/Tchap123)
+- [THEOPHILAS CHAPAR](https://github.com/Tchap123)
