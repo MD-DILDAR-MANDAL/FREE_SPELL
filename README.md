@@ -25,5 +25,5 @@ This can be used as a handy book of techniques which we can all use in our daily
 
 # Contribute
 
-Thank you for considering contributing to our project! There are multiple ways you can contribute. Do read the contribute.md file.
+Thank you for considering contributing to our project! There are multiple ways you can contribute. Do read the CONTRIBUTING.md file.
 
