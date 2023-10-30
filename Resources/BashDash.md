@@ -1,4 +1,4 @@
-# This are some bash tips and tricks that you may find use full
+# This are some bash tips and tricks that you may find usefull
 
 ## Create Bash Alias That Accepts Parameters
 
@@ -23,8 +23,8 @@ alias alias_name="PREFIX $1 $2 SUFIX"
 ```
 example:
 ```cmd
-~alias com="git add $1"
-~com file.txt
+~ alias com="git add $1"
+~ com file.txt
 ```
 >Note: function my not work sometimes with function name starting with letter other than "m"(as in my case)
 
