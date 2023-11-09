@@ -2,6 +2,9 @@
 
 Thank you for considering contributing to our project! There are multiple ways you can contribute:
 
+## File Location
+All the resources should be in [Resources](https://github.com/MD-DILDAR-MANDAL/FREE_SPELL/tree/main/Resources) folder.
+
 ## Conventions
 
 ### Naming
