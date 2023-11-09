@@ -70,3 +70,6 @@ We would like to express our gratitude to the following contributors for their v
 
 - [MD DILDAR MANDAL](https://github.com/MD-DILDAR-MANDAL)
 - [THEOPHILAS CHAPAR](https://github.com/Tchap123)
+- [no-More-Gem](https://github.com/no-More-Gem)
+- [krishna-057](https://github.com/krishna-057)
+- [mayankkatyayan](https://github.com/mayankkatyayan)
