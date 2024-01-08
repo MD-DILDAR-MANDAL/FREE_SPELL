@@ -18,21 +18,17 @@ This can be used as a handy book of techniques which we can all use in our daily
 
 <br/>
 
-### 🤔 How to use this book 
 
 - Start by reading some pages with the topics that capture your interest and carry on.
 
+- Things that are availabe in physical world with money can be found in digital version with free of cost.
 
-### 💡 Things that are availabe in physical world with money can be found in digital version with free of cost.
+- Use your computer to the fullest possible ,reach the razor edge.
 
-### 💻 Use your computer to the fullest possible ,reach the razor edge.
+- The art of using free & opensource software website and digital materials (ebooks, music, videos, movies..etc). 
 
-### 🎁 The art of using free & opensource software website and digital materials (ebooks, music, videos, movies..etc).
-
-### ✍️ Let's Document the Digital World !!! 
-
----
 <h1 align="center">Contribute</h1>
-
+ <p align="center">✍️ Let's Document the Digital World !!!
+</p>
 Thank you for considering contributing to our project! There are multiple ways you can contribute. Do read the [contributing.md](contributing.md) file.
 
