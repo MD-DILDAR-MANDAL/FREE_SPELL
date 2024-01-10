@@ -58,12 +58,6 @@ We will review your pull request and provide feedback. Please ensure you follow 
 If you have any questions or need further assistance, feel free to [contact us](mailto:dildarmandal335@gmail.com).
 
 
-## Sending Files via Email
-...
-
-## Contributing via GitHub
-...
-
 ## Contributors
 
 We would like to express our gratitude to the following contributors for their valuable contributions to this project:
