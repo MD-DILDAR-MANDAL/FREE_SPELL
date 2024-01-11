@@ -1,0 +1,149 @@
+.app__navbar {
+  width: 100%;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 0.5rem 1.5rem;
+
+  background-color: var(--primary-color);
+
+  position: fixed;
+  z-index: 5;
+}
+
+.app__logo {
+  flex: 1;
+
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+
+  img {
+    width: 97px;
+
+    @media screen and (min-width: 900px) {
+      width: 147px;
+    }
+  }
+}
+
+.app__links {
+  flex: 1;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  list-style: none;
+
+  li {
+    text-align: center;
+    margin: 0 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+
+    transition: all 0.3s ease-out;
+
+    a {
+      font-family: var(--font-base);
+      text-decoration: none;
+      font-weight: 500;
+      text-transform: uppercase;
+      color: var(--secondary-color);
+    }
+    &:hover {
+      background-color: var(--secondary-color);
+      a {
+        color: var(--white-color);
+      }
+    }
+    &:last-child {
+      background-color: var(--secondary-color);
+      a {
+        color: var(--white-color);
+      }
+    }
+  }
+  @media screen and (max-width: 900px) {
+    display: none;
+  }
+}
+
+.app__navbar-menu {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  background-color: var(--secondary-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  transition: all 0.3s ease-out;
+
+  svg {
+    width: 70%;
+    height: 70%;
+    color: var(--white-color);
+  }
+
+  div {
+    position: fixed;
+    top: 0;
+    right: 0;
+
+    width: 50%;
+    height: 100vh;
+    background-color: #e1dada;
+
+    padding: 1rem 1rem;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-end;
+
+    svg {
+      width: 25px;
+      height: 25px;
+      border-radius: 50%;
+
+      padding: 5px;
+
+      background-color: var(--gray-color);
+      color: #ffff;
+    }
+    ul {
+      flex: 1;
+      width: 100%;
+      height: 100%;
+
+      padding-left: 2rem;
+
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      align-items: flex-start;
+
+      li {
+        font-size: 1.5rem;
+        margin: 1rem 0rem;
+
+        a {
+          text-transform: uppercase;
+          text-decoration: none;
+          color: var(--secondary-color);
+          font-weight: 500;
+        }
+      }
+    }
+    @media screen and (min-width: 900px) {
+      display: none;
+    }
+  }
+  @media screen and (min-width: 900px) {
+    display: none;
+  }
+}
