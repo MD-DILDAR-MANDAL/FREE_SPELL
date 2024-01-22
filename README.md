@@ -30,5 +30,6 @@ This can be used as a handy book of techniques which we can all use in our daily
 <h1 align="center">Contribute</h1>
  <p align="center">✍️ Let's Document the Digital World !!!
 </p>
-Thank you for considering contributing to our project! There are multiple ways you can contribute. Do read the [contributing.md](contributing.md) file.
+Thank you for considering contributing to our project! There are multiple ways you can contribute. Do read the contributing.md file.
 
+[Contributing.md](https://github.com/MD-DILDAR-MANDAL/FREE_SPELL/blob/main/CONTRIBUTING.md)
