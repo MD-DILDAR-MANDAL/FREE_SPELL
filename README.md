@@ -1,6 +1,5 @@
-<h1 style="text-align: center;">
-    <img src="images/cropped_logo.jpg" style="border-radius: 50%; height: 300px; width: 300px;" alt="Logo">
-</h1>
+# <div style="text-align:center"><img src="images/cropped_logo.png" alt="Logo" style="height:296px; width:296px;"></div>
+
 
 
 
