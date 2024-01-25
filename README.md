@@ -1,4 +1,8 @@
-<h1 align="center"> FREE_SPELL </h1>
+<h1 style="text-align: center;">
+    <img src="images/cropped_logo.jpg" style="border-radius: 50%; height: 300px; width: 300px;" alt="Logo">
+</h1>
+
+
 
 <div align="center">
 
