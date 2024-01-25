@@ -1,6 +1,8 @@
-# <div style="text-align:center"><img src="images/cropped_logo.png" alt="Logo" style="height:296px; width:296px;"></div>
+<div align="center">
+  <img src="images/cropped_logo.png" alt="Logo" style="height:296px; width:296px;">
+</div>
 
-
+<br/>
 
 
 <div align="center">
