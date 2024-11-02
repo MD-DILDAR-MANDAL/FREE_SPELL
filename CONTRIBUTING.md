@@ -3,6 +3,7 @@
 Thank you for considering contributing to our project! There are multiple ways you can contribute:
 
 ## File Location
+
 All the resources should be in [Resources](https://github.com/MD-DILDAR-MANDAL/FREE_SPELL/tree/main/Resources) folder.
 
 ## Conventions
@@ -10,23 +11,25 @@ All the resources should be in [Resources](https://github.com/MD-DILDAR-MANDAL/F
 ### Naming
 
 File names should follow "Camel Case"
- ```
+
+```
 Each word, except the first, starts with a capital letter:
 
 myVariableName = "John"
- ``` 
+```
+
 ### Commiting, merging, issues and anywhere
 
 ```
     Use Conventional commits (conventionalcommits.org)
-    
+
     <type>[optional scope]: <description>
 
     [optional body]
 
     [optional footer(s)] 
-
 ```
+
 For more [*READ HERE*](https://www.conventionalcommits.org/en/v1.0.0/)
 
 ## Sending Files via Email
@@ -48,15 +51,14 @@ If you're comfortable with GitHub and prefer to contribute directly by pushing c
 3. `git clone https://github.com/MD-DILDAR-MANDAL/FREE_SPELL.git`
 4. **Create a new branch** for your contribution: 
 5. Make your changes and commits on the new branch.
-5. **Push the changes** to your forked repository:
-6. **Create a pull request** from your branch to our repository's `main` branch.
+6. **Push the changes** to your forked repository:
+7. **Create a pull request** from your branch to our repository's `main` branch.
 
 We will review your pull request and provide feedback. Please ensure you follow our contribution guidelines, if available.
 
 ## Contact Us
 
 If you have any questions or need further assistance, feel free to [contact us](mailto:dildarmandal335@gmail.com).
-
 
 ## Contributors
 
