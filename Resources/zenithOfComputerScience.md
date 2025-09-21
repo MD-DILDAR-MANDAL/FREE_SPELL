@@ -4,14 +4,6 @@ _Reaching the highest point in the CS journey, what to learn, how to approach, a
 
 ---
 
-## Version History
-
-| Version | Date       | Changes Made            |
-| ------- | ---------- | ----------------------- |
-| 1.0     | 2025-09-21 | Initial draft completed |
-
----
-
 ## Preface
 
 Welcome to _Zenith of Computer Science_. This is not just a syllabus or crash course, but a journey:
